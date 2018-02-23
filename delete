@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#This file act like rm command , but it takes backup of the deleted file 
 Date=`date +'%d_%m_%Y'`
 Time=`date +%H_%M_%S`
 Dst="/Trash/$Date"
